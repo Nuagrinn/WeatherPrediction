@@ -4,7 +4,7 @@ import requests
 
 start_date = '01-OCT-2017'
 end_date = '01-OCT-2020'
-api_key = '' # Here you put in you api-token
+api_key = '' # Here you put in your api-token
 location_list = ['moscow']
 
 hist_weather_data = retrieve_hist_data(api_key,
